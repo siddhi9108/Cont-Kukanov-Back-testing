@@ -1,0 +1,16 @@
+{
+  "best_params": {
+    "lambda_over": 0.01,
+    "lambda_under": 0.01,
+    "theta_queue": 0.0
+  },
+  "smart_router": {
+    "cash_spent": 1113700.0,
+    "avg_fill_price": 222.74
+  },
+  "best_ask": {
+    "cash_spent": 1114102.28,
+    "avg_fill_price": 222.8205,
+    "savings_bps": 3.61
+  }
+}
